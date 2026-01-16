@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Advance-form/static/css/main.60a93f2b.css",
+    "main.js": "/Advance-form/static/js/main.484dbc9b.js",
+    "static/js/453.c4667d47.chunk.js": "/Advance-form/static/js/453.c4667d47.chunk.js",
+    "index.html": "/Advance-form/index.html",
+    "main.60a93f2b.css.map": "/Advance-form/static/css/main.60a93f2b.css.map",
+    "main.484dbc9b.js.map": "/Advance-form/static/js/main.484dbc9b.js.map",
+    "453.c4667d47.chunk.js.map": "/Advance-form/static/js/453.c4667d47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a93f2b.css",
+    "static/js/main.484dbc9b.js"
+  ]
+}
